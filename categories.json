@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "5c05639d2c361013f45e4ba9",
+    "title": "Slikarstvo",
+    "__v": 0,
+    "thumbnail": "/images/categories/promotions.webp"
+  },
+  {
+    "_id": "5c0563a52c361013f45e4baa",
+    "title": "Fotografija",
+    "__v": 0,
+    "thumbnail": "/images/categories/exhibition.webp"
+  },
+  {
+    "_id": "5c0563ad2c361013f45e4bab",
+    "title": "Muzika",
+    "__v": 0,
+    "thumbnail": "/images/categories/concert.webp"
+  },
+  {
+    "_id": "5c0563b42c361013f45e4bac",
+    "title": "Pozorište",
+    "__v": 0,
+    "thumbnail": "/images/categories/theater.webp"
+  },
+  {
+    "_id": "5c0563bc2c361013f45e4bad",
+    "title": "Film",
+    "__v": 0,
+    "thumbnail": "/images/categories/cinema.webp"
+  },
+  {
+    "_id": "5c0563c52c361013f45e4bae",
+    "title": "Arhitektura",
+    "__v": 0,
+    "thumbnail": "/images/categories/architecture.webp"
+  },
+  {
+    "_id": "5c0563d52c361013f45e4baf",
+    "title": "Promocije",
+    "__v": 0,
+    "thumbnail": "/images/categories/promotions.webp"
+  }
+]
